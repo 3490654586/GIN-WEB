@@ -1,0 +1,21 @@
+{
+  "app": "ZhanghuiDianNao",
+  "app_model": "debug",
+  "app_host":"localhost",
+  "app_post": "8079",
+  "mysql": {
+    "databases": "mysql",
+    "user":"root",
+    "passwad": "",
+    "host": "localhost",
+    "port": "3306",
+    "db_name": "bool"
+  },
+  "log": {
+    "level": "info",
+    "filename": "web_app.log",
+    "max_size": 200,
+    "max_age": 30,
+    "max_backups": 7
+  }
+}
